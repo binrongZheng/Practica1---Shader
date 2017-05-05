@@ -1,6 +1,6 @@
 # Practica1---Shader
-Quan descargar la carpeta d'aquesta projecte, pot ser no trobar les libreries, s'ha de cambiar "propierties" -> "Configuration Manager" -> "platform" a (Win32) i "Active solution platform" a (x86), i s'ha de afegir la carpeta lib a la carpeta glew.
+Cuando descargar la carpeta de esta proyecto, puede ser no encontrar las librerías, se debe cambiar "propierties" -> "Configuration Manager" -> "platform" en (Win32) y "Active solution platform" en (x86), y se debe añadir la carpeta lib en la carpeta Glew.
 
-Aquest projecte:
+Este proyecto:
 
-Utilitzar el key "w" per canviar mode de pintar (fill o line) .
+Utilizar el key "w" para cambiar el modo de pintar (fill o line).
